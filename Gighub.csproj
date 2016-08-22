@@ -218,6 +218,10 @@
     <Compile Include="Migrations\201608221811454_PopulateGenresTable.Designer.cs">
       <DependentUpon>201608221811454_PopulateGenresTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201608221924210_AddFKPropertiesToGig.cs" />
+    <Compile Include="Migrations\201608221924210_AddFKPropertiesToGig.Designer.cs">
+      <DependentUpon>201608221924210_AddFKPropertiesToGig.cs</DependentUpon>
+    </Compile>
     <Compile Include="Models\ApplicationDbContext.cs" />
     <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\Gig.cs" />
@@ -314,6 +318,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201608221811454_PopulateGenresTable.resx">
       <DependentUpon>201608221811454_PopulateGenresTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608221924210_AddFKPropertiesToGig.resx">
+      <DependentUpon>201608221924210_AddFKPropertiesToGig.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
