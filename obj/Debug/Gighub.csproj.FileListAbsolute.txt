@@ -82,3 +82,5 @@ c:\users\robert.moncrief\documents\visual studio 2015\Projects\Gighub\Gighub\obj
 c:\users\robert.moncrief\documents\visual studio 2015\Projects\Gighub\Gighub\obj\Debug\Gighub.pdb
 c:\users\robert.moncrief\documents\visual studio 2015\Projects\Gighub\Gighub\obj\Debug\Gighub.Migrations.initailmodel.resources
 c:\users\robert.moncrief\documents\visual studio 2015\Projects\Gighub\Gighub\obj\Debug\Gighub.csproj.GenerateResource.Cache
+C:\Users\robert.moncrief\documents\visual studio 2015\Projects\Gighub\Gighub\obj\Debug\Gighub.Migrations.CreateGigTable.resources
+C:\Users\robert.moncrief\documents\visual studio 2015\Projects\Gighub\Gighub\obj\Debug\Gighub.Migrations.OverrideConventionsForGigsAndGenres.resources
