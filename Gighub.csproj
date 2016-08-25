@@ -222,6 +222,14 @@
     <Compile Include="Migrations\201608221924210_AddFKPropertiesToGig.Designer.cs">
       <DependentUpon>201608221924210_AddFKPropertiesToGig.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201608251851579_dummy.cs" />
+    <Compile Include="Migrations\201608251851579_dummy.Designer.cs">
+      <DependentUpon>201608251851579_dummy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201608251902437_adUserName.cs" />
+    <Compile Include="Migrations\201608251902437_adUserName.Designer.cs">
+      <DependentUpon>201608251902437_adUserName.cs</DependentUpon>
+    </Compile>
     <Compile Include="Models\ApplicationDbContext.cs" />
     <Compile Include="Models\Genre.cs" />
     <Compile Include="Models\Gig.cs" />
@@ -323,6 +331,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201608221924210_AddFKPropertiesToGig.resx">
       <DependentUpon>201608221924210_AddFKPropertiesToGig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608251851579_dummy.resx">
+      <DependentUpon>201608251851579_dummy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201608251902437_adUserName.resx">
+      <DependentUpon>201608251902437_adUserName.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

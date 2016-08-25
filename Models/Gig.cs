@@ -12,7 +12,7 @@ namespace Gighub.Models
         [Required]
         public string ArtistId { get; set; }
 
-        public DateTime DateTtime { get; set; }
+        public DateTime DateTime { get; set; }
 
         [Required]
         [StringLength(255)]

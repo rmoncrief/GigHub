@@ -86,3 +86,5 @@ C:\Users\robert.moncrief\documents\visual studio 2015\Projects\Gighub\Gighub\obj
 C:\Users\robert.moncrief\documents\visual studio 2015\Projects\Gighub\Gighub\obj\Debug\Gighub.Migrations.OverrideConventionsForGigsAndGenres.resources
 C:\Users\robert.moncrief\documents\visual studio 2015\Projects\Gighub\Gighub\obj\Debug\Gighub.Migrations.PopulateGenresTable.resources
 C:\Users\robert.moncrief\documents\visual studio 2015\Projects\Gighub\Gighub\obj\Debug\Gighub.Migrations.AddFKPropertiesToGig.resources
+C:\Users\robert.moncrief\documents\visual studio 2015\Projects\Gighub\Gighub\obj\Debug\Gighub.Migrations.dummy.resources
+C:\Users\robert.moncrief\documents\visual studio 2015\Projects\Gighub\Gighub\obj\Debug\Gighub.Migrations.adUserName.resources
