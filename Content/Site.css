@@ -91,3 +91,7 @@ h6,
     border-radius: px;
 }
 
+.field-validation-error { 
+    color: red;
+    font-weight: 700;
+}
